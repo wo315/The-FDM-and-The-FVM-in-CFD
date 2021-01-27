@@ -6,12 +6,12 @@ The Finite Difference Method and The Finite Volume Method in Computational Fluid
 
 ## 课程视频：
 
+https://space.bilibili.com/196986312
 
 ## 课程作业
 
 assignments文件夹
 
-https://space.bilibili.com/196986312
 
 ## 课程目的
 
